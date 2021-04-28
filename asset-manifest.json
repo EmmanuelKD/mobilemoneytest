@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/mobilemoneytest/static/js/main.a085b55a.chunk.js",
-    "main.js.map": "/mobilemoneytest/static/js/main.a085b55a.chunk.js.map",
+    "main.js": "/mobilemoneytest/static/js/main.8d34928c.chunk.js",
+    "main.js.map": "/mobilemoneytest/static/js/main.8d34928c.chunk.js.map",
     "runtime-main.js": "/mobilemoneytest/static/js/runtime-main.e71ab314.js",
     "runtime-main.js.map": "/mobilemoneytest/static/js/runtime-main.e71ab314.js.map",
     "static/js/2.86f6ea20.chunk.js": "/mobilemoneytest/static/js/2.86f6ea20.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.e71ab314.js",
     "static/js/2.86f6ea20.chunk.js",
-    "static/js/main.a085b55a.chunk.js"
+    "static/js/main.8d34928c.chunk.js"
   ]
 }
